@@ -1,0 +1,13 @@
+.specstory/
+.cursorignore
+.cursorrules # might be used later for cognitive agent
+
+node_modules
+out
+dist
+
+.env
+
+.cursor/rules/08-domain-specific-rules/*.mdc
+
+.DS_Store
